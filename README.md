@@ -55,7 +55,7 @@ A modern, production-ready SaaS starter template for building full-stack React a
 1. Clone the repository and install dependencies:
 
 ```bash
-npm install
+npm install or npm install --legacy-peer-deps
 ```
 
 2. Copy the environment file and configure your credentials:
